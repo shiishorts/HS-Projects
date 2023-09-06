@@ -1,4 +1,5 @@
 # HS-Projects
-Note that some projects require the doodlePad graphics library (provided)
+*Projects that were done while in high school (coursework with PianoTiles being the exception)
 
-Snake is missing a file for its theme song which can be replaced easily
+*Note that some projects require the doodlePad graphics library (provided)
+*Snek (Snake) is missing a file for its theme song which can be replaced easily
